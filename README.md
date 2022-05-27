@@ -20,6 +20,9 @@
 		<p> </p></td>
 	</tr></table>
 
+
+[Download @ Mozilla Add-ons](https://addons.mozilla.org/ar/firefox/addon/fake-email-generator/) 
+<br>[Download @ Chrome Store](https://chrome.google.com/webstore/detail/fake-email-generator/gjpheonblhjlkmhmkagacbjopagbpclo)
 <div align="center">
 <table border="1" width="100%"><tr>
 		<td align="center" width="50%">
